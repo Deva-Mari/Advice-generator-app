@@ -1,0 +1,11 @@
+.quote{
+    color: hsl(193, 38%, 86%);
+    padding: 1.5rem 0;
+    font-size: 28px
+}
+
+@media(max-width: 376px){
+    .quote{
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,29 @@
+.dice {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  background-color: #52ffa8;
+  position: absolute;
+  bottom: -10%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+
+.dice:hover {
+  -webkit-box-shadow: 0px 0px 30px 1px #52ffa8;
+          box-shadow: 0px 0px 30px 1px #52ffa8;
+}
+
+.dice img {
+  width: 45%;
+  height: 45%;
+}
+/*# sourceMappingURL=Dice.module.css.map */

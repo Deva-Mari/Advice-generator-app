@@ -1,0 +1,12 @@
+.quote {
+  color: #cee3e9;
+  padding: 1.5rem 0;
+  font-size: 28px;
+}
+
+@media (max-width: 376px) {
+  .quote {
+    font-size: 25px;
+  }
+}
+/*# sourceMappingURL=Quote.module.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,EAAE;EACV,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,KAAK;CAIf;;AATD,AAMI,YANQ,CAMR,CAAC,CAAA;EACG,KAAK,EAAE,OAAmB;CAC7B",
+    "sources": [
+        "Attribution.module.scss"
+    ],
+    "names": [],
+    "file": "Attribution.module.css"
+}
