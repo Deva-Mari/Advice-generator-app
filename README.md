@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Repository URL: (https://github.com/Deva-Mari/Advice-generator-app)
-- Live Site URL: ([https://your-live-site-url.com](https://calm-pastelito-050005.netlify.app/))
+- Live Site URL: (https://calm-pastelito-050005.netlify.app/)
 
 ## My process
 
