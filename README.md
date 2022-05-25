@@ -58,6 +58,6 @@ Users should be able to:
 ## Author
 
 - Website - [Deva Mari](https://devamari.com/)
-- Frontend Mentor - [@yDeva-Mari](https://www.frontendmentor.io/profile/Deva-Mari)
+- Frontend Mentor - [@Deva-Mari](https://www.frontendmentor.io/profile/Deva-Mari)
 - GitHub- [@Deva-Mari](https://github.com/Deva-Mari)
 
