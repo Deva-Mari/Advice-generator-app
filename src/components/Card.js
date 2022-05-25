@@ -19,11 +19,11 @@ const Card = () =>{
         setQuote(quoteData.slip.advice);
     }
 
-    return(<div className={styles.card}>
+    return(<main className={styles.card}>
         <Header id={id}/>
         <Quote quote={quote}/>
         <img src={w > 375 ? patternDividerDesk : patternDividerMobi} alt=""/>
         <Dice onGetQuote={getQuoteHandler}/>
-    </div>);
+    </main>);
 }
 export default Card;

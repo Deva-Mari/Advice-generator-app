@@ -1,7 +1,7 @@
 import styles from "./Header.module.css";
 const Header = (props) =>{
     return (
-        <p className={styles.header}>Advice #{props.id}</p>
+        <h1 className={styles.header}>Advice #{props.id}</h1>
     );
 } 
 
